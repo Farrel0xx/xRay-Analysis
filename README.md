@@ -1,1 +1,0 @@
-# pneumonia-prediction# xRay-Analysis
